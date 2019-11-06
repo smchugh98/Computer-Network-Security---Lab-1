@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1570881241 source:c:\users\snelson\lab1\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string.h>
+	<unistd.h>
+	<netdb.h>
+
+1571182037 source:c:\users\simone mchugh\downloads\lab 1\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string.h>
+	<unistd.h>
+	<netdb.h>
+
